@@ -1,9 +1,3 @@
-```
-
-class 
-
-```
-
 How do you print things out the debug area?
 Print("...")
 
@@ -30,3 +24,11 @@ Pointer (top right) opens more options for editing
 
 What is the icon for the project navigator and where is it located?
 Folders (top left)
+
+
+```swift
+
+
+class 
+
+```
